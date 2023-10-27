@@ -29,5 +29,3 @@ Kontrol Pemutaran :
 > Stop : Menghentikan pemutaran dan mengembalikannya ke awal
 
 > Pengaturan Volume
-
-Link 
